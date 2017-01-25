@@ -1,0 +1,15 @@
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\bin\Debug\Пятнашки.exe
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\bin\Debug\Пятнашки.pdb
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\obj\x86\Debug\Пятнашки.Form1.resources
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\obj\x86\Debug\Пятнашки.Properties.Resources.resources
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\obj\x86\Debug\Пятнашки.csproj.GenerateResource.Cache
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\obj\x86\Debug\Пятнашки.exe
+C:\Users\vic\AppData\Local\Temporary Projects\Пятнашки\obj\x86\Debug\Пятнашки.pdb
+D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.exe
+D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.pdb
+D:\Программирование\C#\Пятнашки\Пятнашки\bin\Debug\Пятнашки.exe
+D:\Программирование\C#\Пятнашки\Пятнашки\bin\Debug\Пятнашки.pdb
+D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.Form1.resources
+D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.Properties.Resources.resources
+D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.csproj.GenerateResource.Cache
+D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.csprojResolveAssemblyReference.cache
