@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Пятнашки
 {
-    public partial class Form1 : Form
+    public partial class GameField : Form
     {
         const Int16 ButtonSizePlusDistanceBetweenButtons = 76;
         enum Route { Up, Right, Down, Left };
@@ -18,7 +18,7 @@ namespace Пятнашки
         byte[,] Game_Matrix;
         byte[,] Sample_Matrix_1 = new byte[,] { {0,1,2,3 }, { 4,5,6,7}, {8,9,10,11 }, {12,13,14,15 } };
         byte[,] Sample_Matrix_2 = new byte[,] { { 1,2,3,4 }, {5,6,7,8 }, { 9,10,11,12 }, { 13,14,15,0 } };
-        public Form1()
+        public GameField()
         {
             InitializeComponent();
             Rebuild_Field();

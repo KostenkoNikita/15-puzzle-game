@@ -13,3 +13,11 @@ D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86
 D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.Properties.Resources.resources
 D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.csproj.GenerateResource.Cache
 D:\Программирование\C#\Пятнашки\Пятнашки\obj\x86\Debug\Пятнашки.csprojResolveAssemblyReference.cache
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\bin\Debug\Пятнашки.exe
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\bin\Debug\Пятнашки.pdb
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\obj\x86\Debug\Пятнашки.csprojResolveAssemblyReference.cache
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\obj\x86\Debug\Пятнашки.GameField.resources
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\obj\x86\Debug\Пятнашки.Properties.Resources.resources
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\obj\x86\Debug\Пятнашки.csproj.GenerateResource.Cache
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\obj\x86\Debug\Пятнашки.exe
+D:\Программирование\GITHUB\15-puzzle\Пятнашки\obj\x86\Debug\Пятнашки.pdb
