@@ -29,10 +29,33 @@ namespace Пятнашки
                 button4,button5,button6,button7,
                 button8,button9,button10,button11,
                 button12,button13,button14,button15};
-            Game_Matrix = new byte[4, 4];
-            fill_Game_Matrix();
+            do
+            {
+                Game_Matrix = new byte[4, 4];
+                fill_Game_Matrix();
+            } while (!IsSolvable());
             button_Array = null;
             GC.Collect();
+        }
+        bool IsSolvable()
+        {
+            byte[] a = new byte[16];
+            byte index = 0,inversions = 0;
+            /*Только для случая, когда Game_Matrix[0,0] равно нулю*/
+            foreach (byte b in Game_Matrix)
+            {
+                a[index] = b;
+                index++;
+            }
+            for (int i = 1; i < 16; ++i)
+            {
+                for (int j = 1; j < i; j++)
+                {
+                    if (a[j] > a[i]) { inversions++;}
+                }
+            }
+            inversions++;
+            return (inversions % 2 == 0);
         }
         void fill_Game_Matrix()
         {
